@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:untitled/data/models/wine.dart';
 import 'package:untitled/presentation/bloc/events/wine.dart';
+import 'package:untitled/presentation/bloc/models/wine.dart';
 import 'package:untitled/presentation/bloc/state/states.dart';
 
 class WineBloc extends Bloc<WineEvent, WineState> {

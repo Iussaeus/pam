@@ -1,4 +1,4 @@
-import 'package:untitled/data/models/wine_from.dart';
+import 'package:untitled/presentation/bloc/models/wine_from.dart';
 
 class Wine {
   final bool isAvailable;

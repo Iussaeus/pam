@@ -1,4 +1,4 @@
-import 'package:untitled/data/models/wine.dart';
+import 'package:untitled/presentation/bloc/models/wine.dart';
 
 abstract class WineState {}
 

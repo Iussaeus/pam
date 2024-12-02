@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/data/models/wine.dart';
+import 'package:untitled/presentation/bloc/models/wine.dart';
 
 class WineCard extends StatefulWidget {
   final Wine wine;
